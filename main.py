@@ -516,7 +516,7 @@ for i in range(usn1.__len__()):
 document = Document()
 
 p = document.add_paragraph()
-p.add_run('Ramaiah Institute Of Technology , Bangalore').bold = True
+p.add_run('Inderprastha Engineering College, Ghaziabad').bold = True
 
 p1 = document.add_paragraph()
 p1.add_run('The Department Of Training & Placement').bold = True
